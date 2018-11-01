@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dueros/bot-sdk": "^2.1"
+    }
+}
